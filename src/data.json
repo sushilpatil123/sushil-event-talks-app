@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "category": ["Web Development", "Scalability", "Architecture"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and building web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Alex Chen"],
+    "category": ["Cybersecurity", "Cryptography", "Quantum Computing"],
+    "duration": 60,
+    "description": "An exploration of the threats quantum computing poses to current encryption methods and how to prepare."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Maria Garcia"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": 60,
+    "description": "A practical guide to building and deploying serverless applications using various cloud providers."
+  },
+  {
+    "title": "Data Visualization for Impact",
+    "speakers": ["David Lee", "Susan Wang"],
+    "category": ["Data Science", "Visualization"],
+    "duration": 60,
+    "description": "Discover how to create compelling data visualizations that tell a story and drive action."
+  },
+  {
+    "title": "Ethical Considerations in Software Development",
+    "speakers": ["Dr. Ben Carter"],
+    "category": ["Ethics", "Software Development"],
+    "duration": 60,
+    "description": "A discussion on the ethical responsibilities of software developers and how to navigate complex moral dilemmas."
+  }
+]
